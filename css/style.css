@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#inputUsers {
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom-color: #808080;
+    width: 71%;
+    margin-left: 10px;
+}
+
+#button {
+    background-color: #008B8B;
+    color: white;
+
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
